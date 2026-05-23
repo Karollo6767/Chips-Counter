@@ -1,8 +1,6 @@
 package org.example;
 
-public interface ChipsCounter {
-
-    int chips = 20;
+public interface ChipsCounter {
 
     public void add();
     public void subtract();
